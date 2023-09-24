@@ -1,1 +1,1 @@
-# Employee-Management-System
+Employee Management System is a Desktop-based web application where the admin can log in to the system and perform different crud operations on employee data. Java Swing which is a graphical user interface is used for frontend, java is used for backend, Mysql for the database, and Jdbc is used for connection between application and database. 
